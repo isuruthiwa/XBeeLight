@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=XBeeCct.SchDoc
+Record=SheetSymbol|SourceDocument=XBeeCct.SchDoc|Designator=PowerMeasurement|SchDesignator=PowerMeasurement|FileName=PowerMeasurement.SchDoc|SymbolType=Normal|RawFileName=PowerMeasurement.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=XBeeCct.SchDoc|Designator=PowerMngt|SchDesignator=PowerMngt|FileName=PowerMngt.SchDoc|SymbolType=Normal|RawFileName=PowerMngt.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=XBeeCct.SchDoc|Designator=XBeeMain|SchDesignator=XBeeMain|FileName=XBeeLight.SchDoc|SymbolType=Normal|RawFileName=XBeeLight.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
